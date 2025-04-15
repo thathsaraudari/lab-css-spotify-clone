@@ -131,3 +131,49 @@ body {
 .feature-icon-dev {
     min-height: 85px;
 }
+
+.spotify-app {
+    height:550x;
+    width:250px;
+    float: right;
+}
+
+.spotify-details-title {
+    text-decoration: underline;
+    text-decoration-color: #FFF;
+    text-decoration-thickness: 2px;
+    color: #FFF; 
+    font-size: x-large; 
+}
+
+#spotify-details {
+    background-color: #00B172;
+    margin: 50px;
+    padding: 70px;
+    display: flex;
+    color: #FFF;
+}
+
+#spotify-details-title-div {
+    width: 70%;
+}
+
+#details {
+    width: 60%;
+   
+   
+}
+
+.spotify-title {
+    font-size: larger;
+}
+
+.spotify-icon {
+    height:100x;
+    width:100px;
+}
+
+#details-div {
+    flex-direction: row;
+    display: flex;
+}
